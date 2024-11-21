@@ -1,4 +1,4 @@
-# Cat_vs_Dog_Classification
+# Cat vs Dog Classification
 
 ## 🔎 Project Overview:
 Cat vs Dog Classification is another deep learning application which classifies the images of cats and dogs. The proposed CNN utilizes a labeled dataset in order to automate the recognition process. This project demonstrates very practical applications of deep learning in image processing and classification tasks.
